@@ -1,2 +1,2 @@
-# pudgynet
-For pudgy things.
+# I&Pnet
+for IP things
