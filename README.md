@@ -1,1 +1,2 @@
-# I-PNET
+# pudgynet
+For pudgy things.
